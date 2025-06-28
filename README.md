@@ -1,6 +1,6 @@
 # 📚 Sistema de Gerenciamento de Biblioteca
 
-Trabalho final da disciplina de *Lógica de Programação* (ADS)  
+Trabalho AS *Lógica de Programação* (ADS)  
 Aluno: *Douglas Kereski*  
 Professor: *Victor Costa Melo*
 
